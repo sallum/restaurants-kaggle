@@ -1,4 +1,4 @@
 *.csv
-!sources
+!sources/*.csv
 .DS_Store
 .idea
