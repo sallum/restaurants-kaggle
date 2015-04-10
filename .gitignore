@@ -1,4 +1,5 @@
 *.csv
 !sources/*.csv
+!pending-submissions/*.csv
 .DS_Store
 .idea
